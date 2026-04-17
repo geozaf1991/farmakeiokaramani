@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Φαρμακείο Μαρία Νικ. Καραμάνη | Χανάκια Ηλείας</title>
+    <title>Φαρμακειο Μαρια Νικ. Καραμανη | Χανάκια Ηλείας</title>
     <meta name="description" content="Επαγγελματικό φαρμακείο Μαρία Νικ. Καραμάνη στα Χανάκια Ηλείας. Υπηρεσίες υγείας, εμβολιασμοί, δερμοκαλλυντικά.">
     
     <!-- Google Fonts -->
